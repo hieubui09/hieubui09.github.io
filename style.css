@@ -85,8 +85,11 @@ button span{
     margin-left: 50%;
 }
 .text-containe h1{
-    font-size: 70px;
+    font-size: 60px;
     font-weight: 300;
+}
+.text-containe h1 span{
+    color:rgb(0 152 111); 
 }
 .text-containe a{
     display: inline-block;
